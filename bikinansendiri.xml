@@ -85,7 +85,7 @@
 <channel id="TVRI.MACAN"><display-name>TVRI Nasional</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"/><url>https://mncvision.id</url></channel>
 <channel id="TawafTV.MACAN"><display-name>Tawaf TV</display-name><icon src="https://i.imgur.com/pjYTa3P.png"/><url>https://mncvision.id</url></channel>
 <channel id="Thrill.hk"><display-name>Thrill</display-name><icon src="https://i.imgur.com/Y282owj.png"/><url>https://mncvision.id</url></channel>
-<channel id="Trans7.MACAN"><display-name>Trans 7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://mncvision.id</url></channel>
+<channel id="Trans7.MACAN"><display-name>Trans7.MACAN</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://mncvision.id</url></channel>
 <channel id="TransTV.MACAN"><display-name>Trans TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/><url>https://mncvision.id</url></channel>
 <channel id="VisionPrime.id"><display-name>Vision Prime</display-name><icon src="https://i.imgur.com/dKnWI2O.png"/><url>https://mncvision.id</url></channel>
 <channel id="WarnerTVAsia.us"><display-name>Warner TV Asia</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png"/><url>https://mncvision.id</url></channel>
@@ -96,7 +96,6 @@
 <channel id="tvNMoviesAsia.hk"><display-name>tvN Movies Asia</display-name><icon src="https://i.imgur.com/c4XvwO2.png"/><url>https://mncvision.id</url></channel>
 <channel id="TVOne.MACAN"><display-name>tvOne</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://mncvision.id</url></channel>
 <channel id="RTV.MACAN"><display-name>RTV.MACAN</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://vidio.com</url></channel>
-
 <channel id="OChannel.MACAN"><display-name>O Channel</display-name><icon src="https://i.imgur.com/q6uqktq.png"/><url>https://vidio.com</url></channel>
 <channel id="CNNIndonesia.MACAN"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://transvision.co.id</url></channel>
 <channel id="DaaiTv.MACAN"><display-name>DAAI TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://vidio.com</url></channel>
